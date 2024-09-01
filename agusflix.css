@@ -1657,10 +1657,10 @@ progress::-webkit-progress-value {
   top: 0;
   right: 0;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-between;
   align-items: flex-end;
-  width: auto;
+  width: -webkit-fill-available;
   padding: 0em;
   gap: 1em;
   border-radius: 10px;
