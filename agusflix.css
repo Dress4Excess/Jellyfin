@@ -14,7 +14,7 @@
 
 /* Backdrop */
 .backgroundContainer {
-    background: url(https://i.imgur.com/dGBenC7.jpeg) center top no-repeat #030322;
+    background: url(https://i.imgur.com/9vL4iNf.png) center top no-repeat #3e0947;
     -webkit-background-size: cover;
     background-size: cover;
 	opacity: 0.2;
@@ -32,7 +32,7 @@
     left: 0;
     width: 100%;
     height: 100vh;
-    background: url(https://i.imgur.com/dGBenC7.jpeg) center top no-repeat #030322;
+    background: url(https://i.imgur.com/9vL4iNf.png) center top no-repeat #3e0947;
     -webkit-background-size: cover;
     background-size: cover;
 	opacity: 0.2;
@@ -45,7 +45,7 @@
     left: 0;
     width: 100%;
     height: 100vh;
-    background: url(https://i.imgur.com/dGBenC7.jpeg) center top no-repeat #030322;
+    background: url(https://i.imgur.com/9vL4iNf.png) center top no-repeat #3e0947;
     -webkit-background-size: cover;
     background-size: cover;
 	opacity: 0.2;
@@ -58,7 +58,7 @@
 }
 
 .detailPagePrimaryContainer::before {
-    background: url(https://i.imgur.com/dGBenC7.jpeg) center top no-repeat #030322;
+    background: url(https://i.imgur.com/9vL4iNf.png) center top no-repeat #3e0947;
     -webkit-background-size: cover;
     background-size: cover;
 	opacity: 0.2;
@@ -71,7 +71,7 @@
 }
 
 .detailPageSecondaryContainer::before {
-    background: url(https://i.imgur.com/dGBenC7.jpeg) center top no-repeat #030322;
+    background: url(https://i.imgur.com/9vL4iNf.png) center top no-repeat #3e0947;
     -webkit-background-size: cover;
     background-size: cover;
 	opacity: 0.2;
